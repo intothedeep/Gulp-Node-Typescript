@@ -26,7 +26,7 @@ const rename = require('gulp-rename');
 
 // src:files I wrote, dist:files being built by gulp
 const src = 'public/src';
-const dist = 'public/dist';
+const dist = 'dist';
 
 // path for each type of files, which you want to build
 const paths = {
